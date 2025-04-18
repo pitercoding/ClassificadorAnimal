@@ -65,7 +65,7 @@ java Main
 ## Exemplo de Uso
 
 ### Cadastro de Animais:
-
+```
 === Classificador Animal ===
 1 - Cadastrar novo animal
 2 - Listar todos os animais
@@ -88,9 +88,10 @@ Escolha o filo:
 - CHORDATA
 Digite exatamente como está acima: ANNELIDA
 Animal cadastrado com sucesso!
+```
 
 ### Listagem de Animais:
-
+```
 === Classificador Animal ===
 1 - Cadastrar novo animal
 2 - Listar todos os animais
@@ -99,9 +100,10 @@ Animal cadastrado com sucesso!
 Escolha uma opção: 2
 
 Nome: Minhoca, Filo: ANNELIDA, Simetria: Bilateral, Habitat: Terrestre
+```
 
 ### Buscar por Filo:
-
+```
 === Classificador Animal ===
 1 - Cadastrar novo animal
 2 - Listar todos os animais
@@ -121,6 +123,7 @@ Digite o filo para buscar:
 - CHORDATA
 Digite exatamente como está acima: ANNELIDA
 Nome: Minhoca, Filo: ANNELIDA, Simetria: Bilateral, Habitat: Terrestre
+```
 
 ## Contribuições
 Se você quiser contribuir com o projeto, fique à vontade para enviar um pull request. Sugestões, melhorias e correções são sempre bem-vindas!
